@@ -9,3 +9,4 @@ bin/
 .project
 .settings
 .springBeans
+.class
